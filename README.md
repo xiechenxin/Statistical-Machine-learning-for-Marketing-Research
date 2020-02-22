@@ -1,2 +1,1 @@
-# Homework Submission
-Statistcal learning
+# Statistical & Machine learning for Marketing Research
